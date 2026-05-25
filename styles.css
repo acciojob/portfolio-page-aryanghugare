@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+ul li {
+	list-style : none ;
+}
+.p {
+	display : block ;
+}
